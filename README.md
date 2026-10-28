@@ -47,6 +47,10 @@ prototype 1/
 │── run_webcam.py              # Main MediaPipe pose tracking & telemetry application
 │── run.bat                    # One-click launcher script for Windows
 │── requirements.txt           # Python library dependencies
+│── generate_easy_doc.py       # Generates concise 2-page explainer DOCX
+│── SmartTrack_Prototype_1_Easy_Guide.docx  # Concise, visual 2-page FYP guide
+│── generate_technical_doc.py  # Generates comprehensive 3-page technical report
+│── SmartTrack_Prototype_1_Technical_Report.docx # Detailed 3-page technical report
 │── generate_diagrams.py       # Generates model comparison & sensor fusion charts
 │── generate_report.py         # Automated DOCX report compilation
 │── generate_long_report.py    # Detailed academic thesis progress report generator
