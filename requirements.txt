@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+psutil>=5.9.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+networkx>=3.0
+python-docx>=0.8.11
